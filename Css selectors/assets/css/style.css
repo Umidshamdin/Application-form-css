@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+}
+
+.Application{
+    display: flex;
+    justify-content:flex-start;
+    border: 13px;
+}
+.tesdiqle{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    width: 100px;
+    height: 30px;
+    
+}
